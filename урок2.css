@@ -1,0 +1,22 @@
+h1 {
+    background: darkseagreen;
+}
+
+.paragraph-1 {
+    background:khaki ;
+    font-size: 34pt;
+}
+
+.paragraph-2 {
+    text-align: center;
+    border: 10px solid yellowgreen;
+    border-radius: 15px;
+    font-size: 24px;
+    text-shadow: yellowgreen 2px 2px;
+}
+
+.paragraph-3 {
+    font-weight: bold;
+    font-size: 22pt;
+    font-family:'Gill Sans';
+}
